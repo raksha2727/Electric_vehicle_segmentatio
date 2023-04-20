@@ -1,1 +1,1 @@
-# Electric_vehicle_segmentatio
+# Electric_vehicle_segmentation
